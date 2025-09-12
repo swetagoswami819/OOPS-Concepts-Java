@@ -29,7 +29,7 @@ Run the examples and try modifying them to practice.
 
 📖 Why This Project
 
-This is my personal learning repository to help me revise OOPs anytime and share my learning journey publicly.It will also help recruiters see my basic coding skills during placements.
+This is my personal learning repository to help me revise OOPs anytime and share my learning journey publicly.
 
 Made with ❤️ by Sweta Goswami
 
