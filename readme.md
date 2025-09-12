@@ -1,4 +1,4 @@
-# 📚 OOPs Concepts - Java
+# 📚 OOPS Concepts - Java
 
 Welcome to my **Object-Oriented Programming (OOPs)** learning repository in Java!  
 This project contains notes and basic example programs I created to understand core OOPs concepts.
@@ -21,7 +21,7 @@ Each concept includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/swetagoswami819/OOPs-Concepts.git
+   git clone https://github.com/swetagoswami819/OOPS-Concepts-Java.git
 
 Open the .java files in your favorite IDE (e.g., VSCode, Eclipse).
 
